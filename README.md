@@ -1,4 +1,12 @@
-### Hi there 👋
+### Hi, I'm Matthew Magaldi 👋
+
+## I'm a student, engineer, and entreprenuer
+
+- I led a team of engineers at BlackRock where I helped build Aladdin Wealth.
+
+- I studied Electrical and Computer Engineering at Cornell University.
+
+- Here is [📚 my reading list](https://www.goodreads.com/review/list/68216178-matthew-magaldi?utf8=✓&shelf=read&title=matthew-magaldi&per_page=infinite)
 
 <!--
 **magaldima/magaldima** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
