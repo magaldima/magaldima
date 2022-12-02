@@ -2,7 +2,9 @@
 
 ## I'm a student, engineer, and entreprenuer
 
-- I led a team of engineers at BlackRock where I helped build Aladdin Wealth.
+- Im the Founding Engineer at [Chariot](https://www.givechariot.com/) where we on a mission to change the way people give.
+
+- Previously, I led a team of engineers at BlackRock where I helped build Aladdin Wealth.
 
 - I studied Electrical and Computer Engineering at Cornell University.
 
