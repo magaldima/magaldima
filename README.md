@@ -2,7 +2,7 @@
 
 ## I'm a student, engineer, and entreprenuer
 
-- I'm the Founding Engineer at [Chariot](https://www.givechariot.com/) where we on a mission to change the way people give in order to grow the kindness market to 10% of GDP.
+- I'm the Founding Engineer at [Chariot](https://www.givechariot.com/) where we are on a mission to change the way people give in order to grow the kindness market to 10% of GDP.
 
 - Previously, I led a team of engineers at BlackRock where I helped build Aladdin Wealth.
 
